@@ -65,4 +65,4 @@ const Footer = ({ runSort }) => {
   );
 };
 
-export default Footer;
+export default Footer; 
