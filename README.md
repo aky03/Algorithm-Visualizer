@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <th>Bubble Sort</th>
-    <th>Cocktail Shaker Sort</th>
+<!--     <th>Cocktail Shaker Sort</th> -->
   </tr>
   <tr>
     <td>
@@ -49,13 +49,13 @@
         height="270"
       />
     </td>
-    <td>
+<!--     <td>
       <img
         src="https://user-images.githubusercontent.com/52258650/119985719-a5318e80-bfe0-11eb-86e1-789130eb9fd5.gif"
         width="480"
         height="270"
       />
-    </td>
+    </td> -->
   </tr>
   <tr>
     <th>Selection Sort(Min)</th>
